@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+  padding: 2rem;
+}
+
+header, section, footer {
+  margin-bottom: 2rem;
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.modulo {
+  margin-bottom: 1.5rem;
+}
+
+.modulo h3 {
+  color: #2c3e50;
+}
+
+.tarefa {
+  margin-left: 1rem;
+}
+
+.importante {
+  color: #c0392b;
+  font-weight: bold;
+}
+
+.tag {
+  background-color: #ddd;
+  font-size: 0.85em;
+  padding: 0.2em 0.5em;
+  border-radius: 4px;
+  margin-left: 0.5em;
+}
+
